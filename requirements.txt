@@ -1,0 +1,4 @@
+chromadb==1.0.15
+pymupdf==1.26.3
+python-dotenv==1.1.1
+google-genai==1.27.0
